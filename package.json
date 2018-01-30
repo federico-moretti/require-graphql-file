@@ -20,6 +20,9 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1"
   },
+  "dependencies": {
+    "caller": "^1.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ikos9/require-graphql-file.git"
