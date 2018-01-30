@@ -1,0 +1,30 @@
+{
+  "name": "require-graphql-file",
+  "version": "1.0.0",
+  "description": "Simple package to import .graphql files to being able to write them with syntax highlighting.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "compile": "babel src -d lib",
+    "prepare": "npm run compile"
+  },
+  "author": "Federico Moretti",
+  "license": "MIT",
+  "keywords": [
+    "graphql",
+    "apollo",
+    "require",
+    "import",
+    "file"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikos9/require-graphql-file.git"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
