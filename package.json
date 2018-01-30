@@ -1,6 +1,6 @@
 {
   "name": "require-graphql-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple package to import .graphql files to being able to write them with syntax highlighting.",
   "main": "./lib/index.js",
   "scripts": {
