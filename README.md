@@ -29,4 +29,4 @@ exports.schema = makeExecutableSchema({
 
 ## License
 
-[MIT](LICENSE) ©️ [Federico Moretti](https://fmoretti.com)
+[MIT](LICENSE) © [Federico Moretti](https://fmoretti.com)
